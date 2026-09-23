@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "dermatologia",
+    "description": "descripcion de dermatologia",
+    "duration": 15,
+    "price": 55000,
+    "category": "practica",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "clinica medica",
+    "description": "descripcion de clinica medica",
+    "duration": 1530,
+    "price": 65000,
+    "category": "consulta",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "odontologia",
+    "description": "descripcion odontologia",
+    "duration": 1530,
+    "price": 65000,
+    "category": "consulta",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "clinica Mauri",
+    "description": "descripcion de Mauri",
+    "duration": 1530,
+    "price": 65000,
+    "category": "consulta",
+    "available": false
+  },
+  {
+    "id": 6,
+    "name": "clinica Finochietto",
+    "description": "descripcion Fino",
+    "duration": 60,
+    "price": 70000,
+    "category": "practica",
+    "available": true
+  }
+]

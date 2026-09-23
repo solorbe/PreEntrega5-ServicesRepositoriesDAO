@@ -12,7 +12,6 @@ class ServicesService {
   // el controller soloS pasa lo que vino en la query string, no filtra nada).
   async getServices(filtro = {}) {
     const { category, available } = filtro;
-    console.log(filtro);
     const servicios = await this.serviceManager.getServices();
     if (category) {
       return servicios.filter((servicio) => servicio.category === category);
